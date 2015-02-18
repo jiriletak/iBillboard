@@ -1,0 +1,10 @@
+{
+  "name": "iBillboardTest",
+  "version": "0.0.0",
+  "description": "iBillboardTest",
+  "main": "app.js",
+  "author": {
+    "name": "jiri.letak",
+    "email": ""
+  }
+}

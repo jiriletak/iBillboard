@@ -1,0 +1,7 @@
+{
+  "port": 1337,
+  "path": "/track",
+  "outputFile": "data.txt",
+  "redisPort": 6379,
+  "redisValue": "count"
+}

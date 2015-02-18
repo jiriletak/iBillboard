@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "iBillboardTest", "iBillboardTest\iBillboardTest.njsproj", "{48E0176F-18F1-4D03-AD68-3C5E96E8518B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E0176F-18F1-4D03-AD68-3C5E96E8518B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E0176F-18F1-4D03-AD68-3C5E96E8518B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E0176F-18F1-4D03-AD68-3C5E96E8518B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E0176F-18F1-4D03-AD68-3C5E96E8518B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
